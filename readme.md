@@ -1,5 +1,7 @@
 ## PhotoshopEvents (CEP Sample)
 
+- [中文说明](readme_zh.md)
+
 This sample shows how to listen to Photoshop events from a CEP panel. It registers a few common events in `host/ps.jsx` and uses `js/CSInterface.js` to communicate with Photoshop.
 
 ### Supported hosts

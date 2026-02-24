@@ -1,5 +1,7 @@
 ## PhotoshopEvents（CEP 插件示例）
 
+- [English Readme](readme.md)
+
 此示例展示如何在 Photoshop 中通过 CEP 面板监听事件。`host/ps.jsx` 中注册了常见事件；通过 `js/CSInterface.js` 与 Photoshop 交互。
 
 ### 支持宿主
